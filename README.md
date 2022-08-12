@@ -19,7 +19,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 
 
-#### Projetos
+### <p align = "center"> **Projetos** </p> 
+---------------------
 **Fundamentos** | **Front-End** | **Back-End** | **Ciência da Computação** |
   :---:| :---:| :---:| :---: |
 _[ HTML & CSS]()_  |  _[ Movie Cards Library]()_ | _[ Vocabulary Booster]()_ | _[ Explorando os protocolos]()_ |            
