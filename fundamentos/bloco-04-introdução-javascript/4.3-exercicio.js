@@ -1,0 +1,13 @@
+
+
+// --- 1 ---
+// Crie um algoritmo que retorne o fatorial de 10.
+
+let num = 10
+let fatorial = 1
+
+for (let r = 1; r <= num; r += 1){
+  fatorial *= r 
+}
+
+console.log(fatorial)
