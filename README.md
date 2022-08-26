@@ -23,7 +23,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 **Fundamentos** | **Front-End** | **Back-End** | **Ciência da Computação** |
   :---:| :---:| :---:| :---: |
-_[ :ballot_box_with_check: HTML & CSS]()_  |  _[ Movie Cards Library]()_ | _[ Vocabulary Booster]()_ | _[ Explorando os protocolos]()_ |            
+_[ :ballot_box_with_check: HTML & CSS](https://github.com/danargolo/Exercicios/tree/master/projetos/lessons-learned)_  |  _[ Movie Cards Library]()_ | _[ Vocabulary Booster]()_ | _[ Explorando os protocolos]()_ |            
 _[ Playground Functions]()_ | _[ Movie Cards Library Stateful]()_ | _[ One For All]()_ | _[ Tech news]()_|
 _[ Meme Generator]()_ | _[ Movie Cards Library CRUD]()_ | _[ Data Flights]()_ |
 _[ Arte com Pixels]()_ | _[ Frontend Online Store]()_ | _[ Commerce]()_ |
