@@ -4,10 +4,42 @@
   box-sizing: border-box;
 }
 
-.container {
-    border: 2px solid black;
+header {
+  margin: 20px;
 }
 
+form {
+  margin: 10px;
+  width: 65%;
+}
+
+.dados {
+  height: 70px;
+  align-self: center;
+  margin: 10px 0px 0px 10px;
+  padding: 5px;
+  align-content: space-between;
+}
+
+.camponome {
+  margin-bottom: 10px;  
+}
+
+.container {
+  border: 2px solid black;
+}
+
+fieldset {
+    display: inline;
+    margin: 0px 0px 10px 5px;
+    padding: 8px;
+    width: fit-content;
+    justify-self: center;
+    align-items: center;
+    border: none;
+}
+
+
 #textfield {
-    resize: none;
+  resize: none;
 }
